@@ -4,4 +4,4 @@
 - ssh-add "C:\Program Files\Git\.ssh\id_rsa"
 *To add 私钥*
 - ssh-add -l
-- *To read all id_rsa*
+*To read all id_rsa*
